@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(228, 220, 174);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(248, 230, 127, 0.75);
+}
+
+p {
+    background-color: rgb(247, 247, 156, 0.5);
+}
+
+img {
+    height: auto;
+}
+
+.ingredients1 {
+    background-color: rgba(89, 202, 183, 0.5);
+}
+
+.ingredients2 {
+    background-color: rgb(68, 152, 167, 0.5);
+}
+
+.directions {
+    background-color: rgb(185, 98, 71, 0.5);
+}
